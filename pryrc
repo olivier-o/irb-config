@@ -10,3 +10,4 @@ require '~/.irb/irb/rails_colors'
 require '~/.irb/irb/mongoid_colors'
 require '~/.irb/irb/plot'
 require '~/.irb/irb/rails_commands'
+Pry.config.editor ="vim"
