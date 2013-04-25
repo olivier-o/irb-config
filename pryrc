@@ -8,3 +8,4 @@ require '~/.irb/irb/rspec_console'
 require '~/.irb/irb/cucumber_console'
 require '~/.irb/irb/rails_colors'
 require '~/.irb/irb/rails_commands'
+Pry.config.editor ="vim"
